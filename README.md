@@ -14,4 +14,4 @@ You can drag and drop images into the main window, at which the application will
 
 <h2>Trouble?</h2>
 
-If something isn't working right or you encounter a bug, feel free to mention me on Twitter (@antsstyle) and I can look into it.
+If something isn't working right or you encounter a bug, feel free to mention me on Twitter (<a href="https://twitter.com/antsstyle">@antsstyle</a>) and I can look into it.
