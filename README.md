@@ -11,3 +11,7 @@ If you're an artist and want to use this, download the PollImageMaker-1.2.jar ab
 You can drag and drop images into the main window, at which the application will prompt you to crop the image if necessary.
 
 <b>Dual-width image:</b> If selected, this image will become one poll option on its own, and will span the entire width of the overall image as opposed to being one half of an option.
+
+<h2>Trouble?</h2>
+
+If something isn't working right or you encounter a bug, feel free to mention me on Twitter (@antsstyle) and I can look into it.
