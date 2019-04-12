@@ -8,7 +8,13 @@ Here's an example of a finished image: https://i.imgur.com/9SsWYCK.png
 
 If you're an artist and want to use this, download the PollImageMaker-1.2.jar above and run it. You will need to have the Java Runtime Environment installed if you don't already, you can find that here: https://www.java.com/en/download/.
 
-You can drag and drop images into the main window, at which the application will prompt you to crop the image if necessary. That window looks like this: (with whatever image you dragged in)
+The main window of the app looks like this:
+
+<img src="https://i.imgur.com/3CIEI8W.png"></img>
+
+In the above example, I've already inserted some images, to show how it looks. On the left are some menu buttons, which will be explained later.
+
+To begin adding images, you can drag and drop images into the main window, at which the application will prompt you to crop the image if necessary. That window looks like this: (with whatever image you dragged in)
 
 <img src="https://i.imgur.com/00DzJRA.png"></img>
 
