@@ -14,6 +14,12 @@ You can drag and drop images into the main window, at which the application will
 
 The "dual-width image" option, if selected, causes the image to become one poll option on its own, which will span the entire width of the overall image as opposed to being one half of an option.
 
+Upon adding one dual-width image, or adding two normal ones, the application will then prompt you to enter text describing this poll option (you can leave it blank for no text). You then continue adding images in this fashion until you're finished, at which point you can use the Save Image button on the left of the main panel.
+
+The "Save Progress" button on the left allows you to save part-way through making your poll image, so in case for some reason you closed the application or something else, you can restore it to that point. You can also save a sub-image, which allows you to select only some of the options you put into the overall poll image.
+
+The "Omit Numbers" button toggles the presence of numbers at the top left of each poll entry. Note that these will also be put into the finished image, along with the text, if they're enabled.
+
 <h2>Trouble?</h2>
 
 If something isn't working right or you encounter a bug, feel free to mention me on Twitter (<a href="https://twitter.com/antsstyle">@antsstyle</a>) and I can look into it.
